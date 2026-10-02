@@ -37,6 +37,11 @@ using two criteria that can be used separately or combined:
 The package makes no assumption about what the features represent. It operates on
 plain numeric arrays of shape `(n_samples, n_features)`.
 
+Not a software person, or just want the idea explained without the API details?
+See [docs/trusting-model-predictions.md](docs/trusting-model-predictions.md), a
+plain-language walkthrough of the same worked example below, written for
+researchers rather than developers.
+
 ## Installation
 
 ```
